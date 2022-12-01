@@ -1,7 +1,10 @@
 # Encrypt7
-Sabir.Sahil
-☺☺☺
-👇👇
+Sabir.Sahil         
+
+☺☺☺        
+
+👇👇         
+
 ☺git clone https://github.com/zeasahil107/Encrypt.git      
 
 ☺cd Encrypt     
